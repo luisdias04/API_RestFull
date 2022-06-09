@@ -2,7 +2,7 @@
   "name": "apirestfull",
   "version": "1.0.0",
   "description": "API Rest Full",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "abbrev": "^1.1.1",
     "accepts": "^1.3.8",
@@ -202,5 +202,5 @@
   "bugs": {
     "url": "https://github.com/luisdias04/API_RestFull/issues"
   },
-  "homepage": "https://github.com/luisdias04/API_RestFull#readme"
+  "homepage": "server.js"
 }
